@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>733</X>
-  <Y>501</Y>
+  <X>1388</X>
+  <Y>268</Y>
   <VerticalWidth>522</VerticalWidth>
-  <VerticalHeight>500</VerticalHeight>
+  <VerticalHeight>445</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -66,6 +66,7 @@
       <Path>LiveSplit.Subsplits.dll</Path>
       <Settings>
         <Version>1.7</Version>
+        <AutomaticAbbreviation>False</AutomaticAbbreviation>
         <CurrentSplitTopColor>FF3C3836</CurrentSplitTopColor>
         <CurrentSplitBottomColor>00CA00CA</CurrentSplitBottomColor>
         <VisualSplitCount>6</VisualSplitCount>
@@ -218,51 +219,6 @@
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
         <Display2Rows>False</Display2Rows>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>LiveSplit.MemoryGraph.dll</Path>
-      <Settings>
-        <Version>1.5.2.0</Version>
-        <BackgroundColor>002DFFF5</BackgroundColor>
-        <BackgroundColor2>00FFFFFF</BackgroundColor2>
-        <GraphColors>004771FE</GraphColors>
-        <MinimumValue>0</MinimumValue>
-        <MaximumValue>0</MaximumValue>
-        <GraphWidth>300</GraphWidth>
-        <GraphHeight>50</GraphHeight>
-        <HorizontalMargins>0</HorizontalMargins>
-        <VerticalMargins>0</VerticalMargins>
-        <GraphStyle>SingleBar</GraphStyle>
-        <BackgroundGradient>Plain</BackgroundGradient>
-        <GraphGradient>Plain</GraphGradient>
-        <GraphSillyColors>False</GraphSillyColors>
-        <ValueTextPosition>Right</ValueTextPosition>
-        <DescriptiveTextPosition>Left</DescriptiveTextPosition>
-        <LocalMax>False</LocalMax>
-        <ProcessName>Titanfall2</ProcessName>
-        <DescriptiveText>
-        </DescriptiveText>
-        <SelectedGame>Titanfall 2</SelectedGame>
-        <SelectedGameOption>
-        </SelectedGameOption>
-        <Module>client.dll</Module>
-        <Base>B34C2C</Base>
-        <Offsets>
-        </Offsets>
-        <ValueType>FloatVec2</ValueType>
-        <DescriptiveTextColor>00000000</DescriptiveTextColor>
-        <DescriptiveTextFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAUEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAgAAAAs=]]></DescriptiveTextFont>
-        <DescriptiveTextOverrideColor>False</DescriptiveTextOverrideColor>
-        <DescriptiveTextOverrideFont>False</DescriptiveTextOverrideFont>
-        <ValueTextColor>FFFABD2F</ValueTextColor>
-        <ValueTextFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAUEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAgAAAAs=]]></ValueTextFont>
-        <ValueTextOverrideColor>True</ValueTextOverrideColor>
-        <ValueTextOverrideFont>False</ValueTextOverrideFont>
-        <ValueTextDecimals>0</ValueTextDecimals>
-        <UnitConversionEnabled>False</UnitConversionEnabled>
-        <UnitsUsed>KilometersPerHour</UnitsUsed>
-        <MeterInGameUnits>40</MeterInGameUnits>
       </Settings>
     </Component>
   </Components>
