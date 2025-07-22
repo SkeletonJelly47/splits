@@ -1,3 +1,456 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1dccec68e00368c1166362af052f6d038ebd1fa7546b6242d4b3246129240520
-size 19400
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Titanfall 2</GameName>
+  <CategoryName>Relay Intro</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PC</Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>18</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="09/16/2021 16:45:11" isStartedSynced="True" ended="09/16/2021 16:46:17" isEndedSynced="True" />
+    <Attempt id="2" started="09/16/2021 16:46:20" isStartedSynced="True" ended="09/16/2021 16:47:21" isEndedSynced="True" />
+    <Attempt id="3" started="09/16/2021 16:47:25" isStartedSynced="True" ended="09/16/2021 16:49:20" isEndedSynced="True" />
+    <Attempt id="4" started="09/16/2021 16:49:23" isStartedSynced="True" ended="09/16/2021 16:50:24" isEndedSynced="True" />
+    <Attempt id="5" started="09/16/2021 16:50:27" isStartedSynced="True" ended="09/16/2021 16:51:51" isEndedSynced="True" />
+    <Attempt id="6" started="09/16/2021 16:51:54" isStartedSynced="True" ended="09/16/2021 16:53:01" isEndedSynced="True" />
+    <Attempt id="7" started="09/16/2021 16:53:04" isStartedSynced="True" ended="09/16/2021 17:03:23" isEndedSynced="True">
+      <PauseTime>-00:03:22.2170000</PauseTime>
+    </Attempt>
+    <Attempt id="8" started="09/17/2021 21:00:03" isStartedSynced="True" ended="09/17/2021 21:00:08" isEndedSynced="True" />
+    <Attempt id="9" started="09/17/2021 21:00:10" isStartedSynced="True" ended="09/17/2021 21:00:14" isEndedSynced="True" />
+    <Attempt id="10" started="09/17/2021 21:00:49" isStartedSynced="True" ended="09/17/2021 21:00:53" isEndedSynced="True" />
+    <Attempt id="11" started="09/17/2021 21:05:14" isStartedSynced="True" ended="09/17/2021 21:05:20" isEndedSynced="True" />
+    <Attempt id="12" started="09/17/2021 21:05:38" isStartedSynced="True" ended="09/17/2021 21:23:30" isEndedSynced="True">
+      <RealTime>00:21:14.1860000</RealTime>
+      <GameTime>00:20:45.3480000</GameTime>
+      <PauseTime>-00:03:22.2170000</PauseTime>
+    </Attempt>
+    <Attempt id="13" started="09/18/2021 17:07:54" isStartedSynced="True" ended="09/18/2021 17:07:59" isEndedSynced="True" />
+    <Attempt id="14" started="09/18/2021 17:09:13" isStartedSynced="True" ended="09/18/2021 17:27:19" isEndedSynced="True">
+      <RealTime>00:21:28.5920000</RealTime>
+      <GameTime>00:20:59.3680000</GameTime>
+      <PauseTime>-00:03:22.2170000</PauseTime>
+    </Attempt>
+    <Attempt id="15" started="09/18/2021 18:26:11" isStartedSynced="True" ended="09/18/2021 18:31:25" isEndedSynced="True" />
+    <Attempt id="16" started="09/18/2021 18:55:05" isStartedSynced="True" ended="09/18/2021 19:00:12" isEndedSynced="True" />
+    <Attempt id="17" started="09/18/2021 19:07:07" isStartedSynced="True" ended="09/18/2021 19:07:12" isEndedSynced="True" />
+    <Attempt id="18" started="09/18/2021 19:07:37" isStartedSynced="True" ended="09/18/2021 19:25:57" isEndedSynced="True">
+      <RealTime>00:21:41.8630000</RealTime>
+      <GameTime>00:21:12.8810000</GameTime>
+      <PauseTime>-00:03:22.2170000</PauseTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Gauntlet</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:03:58.9450000</RealTime>
+          <GameTime>00:03:50.7230000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:57.3090000</RealTime>
+        <GameTime>00:03:49.3330000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <GameTime>00:03:49.4040000</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:03:58.0550000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:03:58.0850000</RealTime>
+          <GameTime>00:03:49.3330000</GameTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:03:58.9450000</RealTime>
+          <GameTime>00:03:50.7230000</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:04:01.9240000</RealTime>
+          <GameTime>00:03:53.6950000</GameTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:03:57.7860000</RealTime>
+          <GameTime>00:03:49.6890000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Battery 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:10:55.0680000</RealTime>
+          <GameTime>00:10:41.1210000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:55.2960000</RealTime>
+        <GameTime>00:06:49.3170000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <GameTime>00:06:54.1500000</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:07:00.6690000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:07:39.4210000</RealTime>
+          <GameTime>00:07:10.4240000</GameTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:06:56.1230000</RealTime>
+          <GameTime>00:06:50.3980000</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:06:55.4190000</RealTime>
+          <GameTime>00:06:49.4940000</GameTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:06:59.0720000</RealTime>
+          <GameTime>00:06:53.5950000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Battery 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:12:37.1780000</RealTime>
+          <GameTime>00:12:23.2310000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:39.8020000</RealTime>
+        <GameTime>00:01:39.8000000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <GameTime>00:01:49.3980000</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:01:49.3980000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:01:42.1100000</RealTime>
+          <GameTime>00:01:42.1100000</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:46.1560000</RealTime>
+          <GameTime>00:01:46.1560000</GameTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:01:56.3960000</RealTime>
+          <GameTime>00:01:56.3960000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>{BT-7274}Fight</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:15:53.6780000</RealTime>
+          <GameTime>00:15:32.5240000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:06.1890000</RealTime>
+        <GameTime>00:02:58.7900000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <GameTime>00:03:08.6020000</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:03:16.2430000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:03:16.5000000</RealTime>
+          <GameTime>00:03:09.2930000</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:03:15.7530000</RealTime>
+          <GameTime>00:03:08.6890000</GameTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:03:11.7850000</RealTime>
+          <GameTime>00:03:04.7130000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Disembark Jump</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:16:56.4200000</RealTime>
+          <GameTime>00:16:32.2420000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:01.8910000</RealTime>
+        <GameTime>00:00:59.3300000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <GameTime>00:01:01.6300000</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:01:05.1850000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:01:02.7420000</RealTime>
+          <GameTime>00:00:59.7180000</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:01.8910000</RealTime>
+          <GameTime>00:00:59.3300000</GameTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:01:11.6500000</RealTime>
+          <GameTime>00:01:08.7220000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Canals</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:17:53.6200000</RealTime>
+          <GameTime>00:17:29.4420000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:57.2000000</RealTime>
+        <GameTime>00:00:57.2000000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <GameTime>00:01:06.3080000</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:01:06.3080000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:57.2000000</RealTime>
+          <GameTime>00:00:57.2000000</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:02.8470000</RealTime>
+          <GameTime>00:01:02.8470000</GameTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:01:01.6660000</RealTime>
+          <GameTime>00:01:01.6660000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Sludge Skip</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:18:56.2280000</RealTime>
+          <GameTime>00:18:32.0500000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:02.6080000</RealTime>
+        <GameTime>00:01:02.6080000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <GameTime>00:01:11.1530000</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:01:11.1530000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:01:02.6080000</RealTime>
+          <GameTime>00:01:02.6080000</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:04.2120000</RealTime>
+          <GameTime>00:01:04.2120000</GameTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:01:04.3080000</RealTime>
+          <GameTime>00:01:04.3080000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>{Blood and Rust}Kane</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:21:14.1860000</RealTime>
+          <GameTime>00:20:45.3480000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:17.9580000</RealTime>
+        <GameTime>00:02:11.0400000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <GameTime>00:02:12.8070000</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:18.5150000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:02:17.9580000</RealTime>
+          <GameTime>00:02:13.2980000</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:20.3900000</RealTime>
+          <GameTime>00:02:14.9450000</GameTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:02:19.2000000</RealTime>
+          <GameTime>00:02:13.7920000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <CustomSettings>
+      <Setting id="flagSplit" type="bool">False</Setting>
+      <Setting id="levelChangeSplit" type="bool">True</Setting>
+      <Setting id="endSplit" type="bool">True</Setting>
+      <Setting id="removeLoads" type="bool">False</Setting>
+      <Setting id="subSplits" type="bool">True</Setting>
+      <Setting id="btSplits" type="bool">True</Setting>
+      <Setting id="btBattery1" type="bool">True</Setting>
+      <Setting id="btBattery2" type="bool">True</Setting>
+      <Setting id="bnrSplits" type="bool">True</Setting>
+      <Setting id="bnrButton1" type="bool">True</Setting>
+      <Setting id="bnrDoor" type="bool">True</Setting>
+      <Setting id="bnrButton2" type="bool">False</Setting>
+      <Setting id="bnrEmbark" type="bool">True</Setting>
+      <Setting id="ita3Splits" type="bool">True</Setting>
+      <Setting id="enc1Splits" type="bool">True</Setting>
+      <Setting id="enc2Splits" type="bool">True</Setting>
+      <Setting id="enc2Button1" type="bool">True</Setting>
+      <Setting id="enc2Button2" type="bool">True</Setting>
+      <Setting id="enc2Dialogue" type="bool">True</Setting>
+      <Setting id="enc2Hellroom" type="bool">True</Setting>
+      <Setting id="enc2Vent" type="bool">True</Setting>
+      <Setting id="b2Splits" type="bool">True</Setting>
+      <Setting id="b2Warp" type="bool">True</Setting>
+      <Setting id="b2Button1" type="bool">True</Setting>
+      <Setting id="b2Trigger" type="bool">True</Setting>
+      <Setting id="b3Splits" type="bool">True</Setting>
+      <Setting id="b3Module1" type="bool">True</Setting>
+      <Setting id="b3Module2" type="bool">True</Setting>
+      <Setting id="b3SecureBeacon" type="bool">False</Setting>
+      <Setting id="tbfSplits" type="bool">True</Setting>
+      <Setting id="arkSplits" type="bool">True</Setting>
+      <Setting id="arkElevator" type="bool">True</Setting>
+      <Setting id="arkKnife" type="bool">True</Setting>
+      <Setting id="foldSplits" type="bool">True</Setting>
+      <Setting id="foldDataCore" type="bool">True</Setting>
+      <Setting id="foldEscape" type="bool">True</Setting>
+      <Setting id="miscSettings" type="bool">True</Setting>
+      <Setting id="speedmod" type="bool">False</Setting>
+      <Setting id="BnRpause" type="bool">False</Setting>
+      <Setting id="enc3pause" type="bool">False</Setting>
+      <Setting id="loadReset" type="bool">False</Setting>
+      <Setting id="cheatsTimerLink" type="bool">True</Setting>
+      <Setting id="tickTimer" type="bool">False</Setting>
+      <Setting id="levelTimer" type="bool">False</Setting>
+      <Setting id="helmetSplit" type="bool">False</Setting>
+      <Setting id="gauntletHelmetSplit" type="bool">True</Setting>
+      <Setting id="btHelmetSplit" type="bool">True</Setting>
+      <Setting id="btHelmet1" type="bool">True</Setting>
+      <Setting id="btHelmet2" type="bool">True</Setting>
+      <Setting id="bnrHelmetSplit" type="bool">True</Setting>
+      <Setting id="bnrHelmet2" type="bool">True</Setting>
+      <Setting id="bnrHelmet1" type="bool">True</Setting>
+      <Setting id="bnrHelmet6" type="bool">True</Setting>
+      <Setting id="bnrHelmet5" type="bool">True</Setting>
+      <Setting id="bnrHelmet4" type="bool">True</Setting>
+      <Setting id="bnrHelmet3" type="bool">True</Setting>
+      <Setting id="ita1HelmetSplit" type="bool">True</Setting>
+      <Setting id="ita1Helmet2" type="bool">True</Setting>
+      <Setting id="ita1Helmet1" type="bool">True</Setting>
+      <Setting id="ita1Helmet3" type="bool">True</Setting>
+      <Setting id="ita1Helmet4" type="bool">True</Setting>
+      <Setting id="ita2HelmetSplit" type="bool">False</Setting>
+      <Setting id="ita2Helmet1" type="bool">False</Setting>
+      <Setting id="ita2Helmet2" type="bool">False</Setting>
+      <Setting id="ita2Helmet3" type="bool">False</Setting>
+      <Setting id="ita3HelmetSplit" type="bool">True</Setting>
+      <Setting id="ita3Helmet1" type="bool">True</Setting>
+      <Setting id="ita3Helmet2" type="bool">True</Setting>
+      <Setting id="enc1HelmetSplit" type="bool">False</Setting>
+      <Setting id="enc1Helmet2" type="bool">False</Setting>
+      <Setting id="enc1Helmet1" type="bool">False</Setting>
+      <Setting id="enc2HelmetSplit" type="bool">True</Setting>
+      <Setting id="enc2Helmet3" type="bool">True</Setting>
+      <Setting id="enc2Helmet1" type="bool">True</Setting>
+      <Setting id="enc2Helmet5" type="bool">True</Setting>
+      <Setting id="enc2Helmet4" type="bool">True</Setting>
+      <Setting id="enc2Helmet2" type="bool">True</Setting>
+      <Setting id="enc2Helmet6" type="bool">True</Setting>
+      <Setting id="b1HelmetSplit" type="bool">True</Setting>
+      <Setting id="b1Helmet6" type="bool">True</Setting>
+      <Setting id="b1Helmet4" type="bool">True</Setting>
+      <Setting id="b1Helmet5" type="bool">True</Setting>
+      <Setting id="b1Helmet3" type="bool">True</Setting>
+      <Setting id="b1Helmet9" type="bool">True</Setting>
+      <Setting id="b1Helmet8" type="bool">True</Setting>
+      <Setting id="b1Helmet2" type="bool">True</Setting>
+      <Setting id="b1Helmet1" type="bool">True</Setting>
+      <Setting id="b1Helmet7" type="bool">True</Setting>
+      <Setting id="b2HelmetSplit" type="bool">True</Setting>
+      <Setting id="b2Helmet2" type="bool">True</Setting>
+      <Setting id="b2Helmet1" type="bool">True</Setting>
+      <Setting id="tbfHelmetSplit" type="bool">True</Setting>
+      <Setting id="tbfHelmet3" type="bool">True</Setting>
+      <Setting id="tbfHelmet2" type="bool">True</Setting>
+      <Setting id="tbfHelmet1" type="bool">True</Setting>
+      <Setting id="arkHelmetSplit" type="bool">True</Setting>
+      <Setting id="arkHelmet2" type="bool">True</Setting>
+      <Setting id="arkHelmet3" type="bool">True</Setting>
+      <Setting id="arkHelmet1" type="bool">True</Setting>
+      <Setting id="foldHelmetSplit" type="bool">True</Setting>
+      <Setting id="foldHelmet3" type="bool">True</Setting>
+      <Setting id="foldHelmet2" type="bool">True</Setting>
+      <Setting id="foldHelmet1" type="bool">True</Setting>
+      <Setting id="enc3HelmetSplit" type="bool">False</Setting>
+      <Setting id="b3HelmetSplit" type="bool">True</Setting>
+      <Setting id="ilSettings" type="bool">False</Setting>
+      <Setting id="btpause" type="bool">False</Setting>
+      <Setting id="Arkpause" type="bool">False</Setting>
+      <Setting id="b2splits" type="bool">False</Setting>
+      <Setting id="batterySplit" type="bool">False</Setting>
+      <Setting id="ita3TitanSplit" type="bool">False</Setting>
+      <Setting id="dialogueSplit" type="bool">False</Setting>
+      <Setting id="moduleSplit" type="bool">False</Setting>
+      <Setting id="tbfElevatorSplit" type="bool">False</Setting>
+      <Setting id="arkElevatorSplit" type="bool">False</Setting>
+      <Setting id="arkGatesShootSplit" type="bool">False</Setting>
+      <Setting id="datacoreSplit" type="bool">False</Setting>
+      <Setting id="escapeSplit" type="bool">False</Setting>
+    </CustomSettings>
+    <tasToolsEnabled>False</tasToolsEnabled>
+    <autoLoadNCS>False</autoLoadNCS>
+    <btSave>True</btSave>
+  </AutoSplitterSettings>
+</Run>

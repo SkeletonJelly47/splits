@@ -1,3 +1,272 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1250cccf5824f95349656f33a5a174b06404dd0fde19eac5f03f306b49910132
-size 13178
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Titanfall 2</GameName>
+  <CategoryName>M1M - The Ark</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>11</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="03/04/2021 21:26:04" isStartedSynced="True" ended="03/04/2021 21:26:13" isEndedSynced="True" />
+    <Attempt id="2" started="03/04/2021 21:26:57" isStartedSynced="True" ended="03/04/2021 21:30:19" isEndedSynced="True">
+      <RealTime>00:03:22.4410000</RealTime>
+      <GameTime>00:03:16.8630000</GameTime>
+    </Attempt>
+    <Attempt id="3" started="03/05/2021 23:05:16" isStartedSynced="True" ended="03/05/2021 23:05:18" isEndedSynced="True" />
+    <Attempt id="4" started="03/05/2021 23:05:49" isStartedSynced="True" ended="03/05/2021 23:05:53" isEndedSynced="True" />
+    <Attempt id="5" started="03/05/2021 23:06:27" isStartedSynced="True" ended="03/05/2021 23:09:48" isEndedSynced="True">
+      <RealTime>00:03:21.0650000</RealTime>
+      <GameTime>00:03:19.0490000</GameTime>
+    </Attempt>
+    <Attempt id="6" started="03/10/2021 01:07:58" isStartedSynced="True" ended="03/10/2021 01:11:33" isEndedSynced="True">
+      <RealTime>00:03:35.9400000</RealTime>
+      <GameTime>00:03:27.8510000</GameTime>
+    </Attempt>
+    <Attempt id="7" started="03/10/2021 01:12:11" isStartedSynced="True" ended="03/10/2021 01:12:15" isEndedSynced="True" />
+    <Attempt id="8" started="03/10/2021 01:16:48" isStartedSynced="True" ended="03/10/2021 01:23:06" isEndedSynced="True">
+      <RealTime>00:06:18.2860000</RealTime>
+      <GameTime>00:06:06.5260000</GameTime>
+    </Attempt>
+    <Attempt id="9" started="03/13/2022 11:40:49" isStartedSynced="True" ended="03/13/2022 11:41:33" isEndedSynced="True" />
+    <Attempt id="10" started="03/13/2022 11:41:43" isStartedSynced="True" ended="03/13/2022 11:42:11" isEndedSynced="True" />
+    <Attempt id="11" started="03/13/2022 11:42:11" isStartedSynced="True" ended="03/13/2022 11:42:13" isEndedSynced="True" />
+    <Attempt id="12" started="03/13/2022 11:42:13" isStartedSynced="True" ended="03/13/2022 11:42:14" isEndedSynced="True" />
+    <Attempt id="13" started="03/13/2022 11:42:14" isStartedSynced="True" ended="03/13/2022 11:42:14" isEndedSynced="True" />
+    <Attempt id="14" started="03/13/2022 11:42:15" isStartedSynced="True" ended="03/13/2022 11:42:15" isEndedSynced="True" />
+    <Attempt id="15" started="03/13/2022 11:42:15" isStartedSynced="True" ended="03/13/2022 11:42:16" isEndedSynced="True" />
+    <Attempt id="16" started="03/13/2022 11:42:16" isStartedSynced="True" ended="03/13/2022 11:48:44" isEndedSynced="True">
+      <RealTime>00:06:27.9670000</RealTime>
+      <GameTime>00:06:02.8610000</GameTime>
+    </Attempt>
+    <Attempt id="17" started="03/19/2022 16:54:05" isStartedSynced="True" ended="03/19/2022 17:01:58" isEndedSynced="True">
+      <RealTime>00:07:52.8290000</RealTime>
+      <GameTime>00:07:37.6680000</GameTime>
+    </Attempt>
+    <Attempt id="18" started="04/08/2023 19:21:48" isStartedSynced="True" ended="04/08/2023 19:29:19" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Barker / 6-4</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:12.8340000</RealTime>
+          <GameTime>00:00:49.3020000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:33.4099990</RealTime>
+        <GameTime>00:00:49.3020000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:00:33.4099990</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:00.9630000</RealTime>
+          <GameTime>00:00:59.5210000</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:12.8340000</RealTime>
+          <GameTime>00:00:49.3020000</GameTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:02:42.6470000</RealTime>
+          <GameTime>00:02:29.3390000</GameTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:02:01.1690308</RealTime>
+          <GameTime>00:01:47.0255684</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Room Clear</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:03:52.8240000</RealTime>
+          <GameTime>00:03:29.2920000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:21.3100000</RealTime>
+        <GameTime>00:02:23.1920150</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:00:23.2020000</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:34.4770000</RealTime>
+          <GameTime>00:02:34.4770000</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:02:39.9900000</RealTime>
+          <GameTime>00:02:39.9900000</GameTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:02:30.4720000</RealTime>
+          <GameTime>00:02:30.4720000</GameTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:02:23.1920150</RealTime>
+          <GameTime>00:02:23.1920150</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Viper</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:27.9670000</RealTime>
+          <GameTime>00:06:02.8610000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:35.1430000</RealTime>
+        <GameTime>00:02:32.5280000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2">
+          <GameTime>00:02:32.5280000</GameTime>
+        </Time>
+        <Time id="-1">
+          <RealTime>00:02:42.8460000</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:02:35.1430000</RealTime>
+          <GameTime>00:02:33.5690000</GameTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:02:39.7100000</RealTime>
+          <GameTime>00:02:37.8570000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <CustomSettings>
+      <Setting id="flagSplit" type="bool">False</Setting>
+      <Setting id="frontierWaveSplit" type="bool">False</Setting>
+      <Setting id="levelChangeSplit" type="bool">True</Setting>
+      <Setting id="endSplit" type="bool">True</Setting>
+      <Setting id="removeLoads" type="bool">True</Setting>
+      <Setting id="subSplits" type="bool">True</Setting>
+      <Setting id="btSplits" type="bool">False</Setting>
+      <Setting id="btBattery1" type="bool">True</Setting>
+      <Setting id="btBattery2" type="bool">True</Setting>
+      <Setting id="bnrSplits" type="bool">False</Setting>
+      <Setting id="bnrButton1" type="bool">True</Setting>
+      <Setting id="bnrDoor" type="bool">True</Setting>
+      <Setting id="bnrButton2" type="bool">False</Setting>
+      <Setting id="bnrEmbark" type="bool">True</Setting>
+      <Setting id="ita3Splits" type="bool">False</Setting>
+      <Setting id="enc1Splits" type="bool">False</Setting>
+      <Setting id="enc2Splits" type="bool">False</Setting>
+      <Setting id="enc2Button1" type="bool">True</Setting>
+      <Setting id="enc2Button2" type="bool">True</Setting>
+      <Setting id="enc2Dialogue" type="bool">True</Setting>
+      <Setting id="enc2Hellroom" type="bool">True</Setting>
+      <Setting id="enc2Vent" type="bool">True</Setting>
+      <Setting id="b2Splits" type="bool">False</Setting>
+      <Setting id="b2Warp" type="bool">True</Setting>
+      <Setting id="b2Button1" type="bool">True</Setting>
+      <Setting id="b2Trigger" type="bool">True</Setting>
+      <Setting id="b3Splits" type="bool">False</Setting>
+      <Setting id="b3Module1" type="bool">True</Setting>
+      <Setting id="b3Module2" type="bool">True</Setting>
+      <Setting id="b3SecureBeacon" type="bool">True</Setting>
+      <Setting id="tbfSplits" type="bool">False</Setting>
+      <Setting id="tbfPilotWithMe" type="bool">False</Setting>
+      <Setting id="tbfElevator" type="bool">True</Setting>
+      <Setting id="arkSplits" type="bool">True</Setting>
+      <Setting id="arkElevator" type="bool">True</Setting>
+      <Setting id="arkKnife" type="bool">True</Setting>
+      <Setting id="foldSplits" type="bool">False</Setting>
+      <Setting id="foldDataCore" type="bool">True</Setting>
+      <Setting id="foldEscape" type="bool">True</Setting>
+      <Setting id="miscSettings" type="bool">True</Setting>
+      <Setting id="BnRpause" type="bool">False</Setting>
+      <Setting id="enc3pause" type="bool">False</Setting>
+      <Setting id="loadReset" type="bool">False</Setting>
+      <Setting id="cheatsTimerLink" type="bool">True</Setting>
+      <Setting id="tickTimer" type="bool">False</Setting>
+      <Setting id="levelTimer" type="bool">False</Setting>
+      <Setting id="helmetSplit" type="bool">False</Setting>
+      <Setting id="gauntletHelmetSplit" type="bool">True</Setting>
+      <Setting id="btHelmetSplit" type="bool">True</Setting>
+      <Setting id="btHelmet1" type="bool">True</Setting>
+      <Setting id="btHelmet2" type="bool">True</Setting>
+      <Setting id="bnrHelmetSplit" type="bool">True</Setting>
+      <Setting id="bnrHelmet2" type="bool">True</Setting>
+      <Setting id="bnrHelmet1" type="bool">True</Setting>
+      <Setting id="bnrHelmet6" type="bool">True</Setting>
+      <Setting id="bnrHelmet5" type="bool">True</Setting>
+      <Setting id="bnrHelmet4" type="bool">True</Setting>
+      <Setting id="bnrHelmet3" type="bool">True</Setting>
+      <Setting id="ita1HelmetSplit" type="bool">True</Setting>
+      <Setting id="ita1Helmet2" type="bool">True</Setting>
+      <Setting id="ita1Helmet1" type="bool">True</Setting>
+      <Setting id="ita1Helmet3" type="bool">True</Setting>
+      <Setting id="ita1Helmet4" type="bool">True</Setting>
+      <Setting id="ita2HelmetSplit" type="bool">False</Setting>
+      <Setting id="ita2Helmet1" type="bool">False</Setting>
+      <Setting id="ita2Helmet2" type="bool">False</Setting>
+      <Setting id="ita2Helmet3" type="bool">False</Setting>
+      <Setting id="ita3HelmetSplit" type="bool">True</Setting>
+      <Setting id="ita3Helmet1" type="bool">True</Setting>
+      <Setting id="ita3Helmet2" type="bool">True</Setting>
+      <Setting id="enc1HelmetSplit" type="bool">False</Setting>
+      <Setting id="enc1Helmet2" type="bool">False</Setting>
+      <Setting id="enc1Helmet1" type="bool">False</Setting>
+      <Setting id="enc2HelmetSplit" type="bool">True</Setting>
+      <Setting id="enc2Helmet2" type="bool">True</Setting>
+      <Setting id="enc2Helmet5" type="bool">True</Setting>
+      <Setting id="enc2Helmet1" type="bool">True</Setting>
+      <Setting id="enc2Helmet4" type="bool">True</Setting>
+      <Setting id="enc2Helmet3" type="bool">True</Setting>
+      <Setting id="enc2Helmet6" type="bool">True</Setting>
+      <Setting id="b1HelmetSplit" type="bool">True</Setting>
+      <Setting id="b1Helmet8" type="bool">True</Setting>
+      <Setting id="b1Helmet7" type="bool">True</Setting>
+      <Setting id="b1Helmet4" type="bool">True</Setting>
+      <Setting id="b1Helmet2" type="bool">True</Setting>
+      <Setting id="b1Helmet3" type="bool">True</Setting>
+      <Setting id="b1Helmet1" type="bool">True</Setting>
+      <Setting id="b1Helmet9" type="bool">True</Setting>
+      <Setting id="b1Helmet6" type="bool">True</Setting>
+      <Setting id="b1Helmet5" type="bool">True</Setting>
+      <Setting id="b2HelmetSplit" type="bool">True</Setting>
+      <Setting id="b2Helmet2" type="bool">True</Setting>
+      <Setting id="b2Helmet1" type="bool">True</Setting>
+      <Setting id="tbfHelmetSplit" type="bool">True</Setting>
+      <Setting id="tbfHelmet3" type="bool">True</Setting>
+      <Setting id="tbfHelmet2" type="bool">True</Setting>
+      <Setting id="tbfHelmet1" type="bool">True</Setting>
+      <Setting id="arkHelmetSplit" type="bool">True</Setting>
+      <Setting id="arkHelmet3" type="bool">True</Setting>
+      <Setting id="arkHelmet1" type="bool">True</Setting>
+      <Setting id="arkHelmet2" type="bool">True</Setting>
+      <Setting id="foldHelmetSplit" type="bool">True</Setting>
+      <Setting id="foldHelmet3" type="bool">True</Setting>
+      <Setting id="foldHelmet2" type="bool">True</Setting>
+      <Setting id="foldHelmet1" type="bool">True</Setting>
+      <Setting id="speedmod" type="bool">False</Setting>
+      <Setting id="ilSettings" type="bool">False</Setting>
+    </CustomSettings>
+    <tasToolsEnabled>False</tasToolsEnabled>
+    <autoLoadNCS>False</autoLoadNCS>
+    <btSave>False</btSave>
+  </AutoSplitterSettings>
+</Run>

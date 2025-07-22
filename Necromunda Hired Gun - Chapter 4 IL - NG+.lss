@@ -1,3 +1,47 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8ab20ce80200f4c0df3bfe7bd46ba72bf72f87f32bfd91d9f89c194ba3cb8d6f
-size 1590
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Necromunda: Hired Gun</GameName>
+  <CategoryName>Chapter 4 IL - NG+</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>3</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="06/03/2021 17:22:18" isStartedSynced="True" ended="06/03/2021 17:23:30" isEndedSynced="True" />
+    <Attempt id="2" started="06/03/2021 17:23:30" isStartedSynced="True" ended="06/03/2021 17:23:32" isEndedSynced="True" />
+    <Attempt id="3" started="06/03/2021 17:23:40" isStartedSynced="True" ended="06/03/2021 17:29:46" isEndedSynced="True">
+      <RealTime>00:06:05.3750000</RealTime>
+      <GameTime>00:06:02.5930000</GameTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Chapter 4</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:05.3750000</RealTime>
+          <GameTime>00:06:02.5930000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:05.3750000</RealTime>
+        <GameTime>00:06:02.5930000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:06:05.3750000</RealTime>
+          <GameTime>00:06:02.5930000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

@@ -1,3 +1,160 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7df426f65b803f7ee076b19858f1bae495ec1cf7cbbfbb2bc34d89fa79494f08
-size 10216
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Portal 2</GameName>
+  <CategoryName>Cooperative Game</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PC</Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>56</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="05/20/2022 20:31:15" isStartedSynced="True" ended="05/20/2022 21:27:48" isEndedSynced="True">
+      <RealTime>00:56:33.0140000</RealTime>
+      <GameTime>00:49:42.9000000</GameTime>
+    </Attempt>
+    <Attempt id="2" started="05/22/2022 15:24:02" isStartedSynced="True" ended="05/22/2022 15:24:57" isEndedSynced="True" />
+    <Attempt id="3" started="05/22/2022 15:25:08" isStartedSynced="True" ended="05/22/2022 15:29:03" isEndedSynced="True" />
+    <Attempt id="4" started="05/22/2022 15:29:16" isStartedSynced="True" ended="05/22/2022 15:29:23" isEndedSynced="True" />
+    <Attempt id="5" started="05/22/2022 15:29:29" isStartedSynced="True" ended="05/22/2022 15:29:30" isEndedSynced="True" />
+    <Attempt id="6" started="05/22/2022 15:29:40" isStartedSynced="True" ended="05/22/2022 16:20:02" isEndedSynced="True">
+      <RealTime>00:50:21.8210000</RealTime>
+      <GameTime>00:42:59.3330000</GameTime>
+    </Attempt>
+    <Attempt id="7" started="05/22/2022 16:40:59" isStartedSynced="True" ended="05/22/2022 16:43:25" isEndedSynced="True" />
+    <Attempt id="8" started="05/22/2022 16:43:36" isStartedSynced="True" ended="05/22/2022 16:43:37" isEndedSynced="True" />
+    <Attempt id="9" started="05/22/2022 16:43:48" isStartedSynced="True" ended="05/22/2022 16:45:06" isEndedSynced="True" />
+    <Attempt id="10" started="05/22/2022 16:45:19" isStartedSynced="True" ended="05/22/2022 17:03:56" isEndedSynced="True" />
+    <Attempt id="11" started="05/22/2022 17:04:08" isStartedSynced="True" ended="05/22/2022 17:51:12" isEndedSynced="True">
+      <RealTime>00:47:03.3340000</RealTime>
+      <GameTime>00:40:12.1830000</GameTime>
+    </Attempt>
+    <Attempt id="12" started="05/22/2022 18:14:00" isStartedSynced="True" ended="05/22/2022 18:58:12" isEndedSynced="True">
+      <RealTime>00:44:11.8400000</RealTime>
+      <GameTime>00:37:15.6340000</GameTime>
+    </Attempt>
+    <Attempt id="13" started="05/22/2022 19:25:33" isStartedSynced="True" ended="05/22/2022 19:26:45" isEndedSynced="True" />
+    <Attempt id="14" started="05/22/2022 19:26:55" isStartedSynced="True" ended="05/22/2022 19:27:59" isEndedSynced="True" />
+    <Attempt id="15" started="05/22/2022 19:28:09" isStartedSynced="True" ended="05/22/2022 19:35:23" isEndedSynced="True" />
+    <Attempt id="16" started="05/22/2022 20:16:44" isStartedSynced="True" ended="05/22/2022 20:19:51" isEndedSynced="True" />
+    <Attempt id="17" started="05/22/2022 20:20:06" isStartedSynced="True" ended="05/22/2022 20:21:41" isEndedSynced="True" />
+    <Attempt id="18" started="05/22/2022 20:21:52" isStartedSynced="True" ended="05/22/2022 20:26:49" isEndedSynced="True" />
+    <Attempt id="19" started="05/22/2022 20:27:02" isStartedSynced="True" ended="05/22/2022 20:28:39" isEndedSynced="True" />
+    <Attempt id="20" started="05/22/2022 20:28:51" isStartedSynced="True" ended="05/22/2022 21:05:38" isEndedSynced="True" />
+    <Attempt id="21" started="06/02/2022 16:09:16" isStartedSynced="True" ended="06/02/2022 16:11:01" isEndedSynced="True" />
+    <Attempt id="22" started="06/02/2022 16:11:16" isStartedSynced="True" ended="06/02/2022 16:13:03" isEndedSynced="True" />
+    <Attempt id="23" started="06/02/2022 16:13:15" isStartedSynced="True" ended="06/02/2022 17:03:26" isEndedSynced="True">
+      <RealTime>00:50:10.4410000</RealTime>
+      <GameTime>00:42:32.9830000</GameTime>
+    </Attempt>
+    <Attempt id="24" started="06/02/2022 17:17:31" isStartedSynced="True" ended="06/02/2022 17:19:01" isEndedSynced="True" />
+    <Attempt id="25" started="06/02/2022 17:19:14" isStartedSynced="True" ended="06/02/2022 18:03:13" isEndedSynced="True">
+      <RealTime>00:43:58.0660000</RealTime>
+      <GameTime>00:36:58.3170000</GameTime>
+    </Attempt>
+    <Attempt id="26" started="06/02/2022 18:19:01" isStartedSynced="True" ended="06/02/2022 18:20:47" isEndedSynced="True" />
+    <Attempt id="27" started="06/02/2022 18:21:00" isStartedSynced="True" ended="06/02/2022 18:22:38" isEndedSynced="True" />
+    <Attempt id="28" started="06/02/2022 18:22:49" isStartedSynced="True" ended="06/02/2022 19:07:25" isEndedSynced="True">
+      <RealTime>00:44:35.7090000</RealTime>
+      <GameTime>00:37:23.3670000</GameTime>
+    </Attempt>
+    <Attempt id="29" started="06/02/2022 19:08:25" isStartedSynced="True" ended="06/02/2022 19:09:53" isEndedSynced="True" />
+    <Attempt id="30" started="06/02/2022 19:10:06" isStartedSynced="True" ended="06/02/2022 19:53:12" isEndedSynced="True">
+      <RealTime>00:43:05.7050000</RealTime>
+      <GameTime>00:36:08.2000000</GameTime>
+    </Attempt>
+    <Attempt id="31" started="03/12/2024 17:26:34" isStartedSynced="True" ended="03/12/2024 17:27:04" isEndedSynced="True" />
+    <Attempt id="32" started="03/12/2024 17:27:15" isStartedSynced="True" ended="03/12/2024 17:27:45" isEndedSynced="True" />
+    <Attempt id="33" started="03/12/2024 17:27:55" isStartedSynced="True" ended="03/12/2024 17:31:23" isEndedSynced="True" />
+    <Attempt id="34" started="03/12/2024 17:31:33" isStartedSynced="True" ended="03/12/2024 17:32:46" isEndedSynced="True" />
+    <Attempt id="35" started="03/12/2024 17:32:56" isStartedSynced="True" ended="03/12/2024 17:38:46" isEndedSynced="True" />
+    <Attempt id="36" started="03/12/2024 17:38:57" isStartedSynced="True" ended="03/12/2024 17:40:37" isEndedSynced="True" />
+    <Attempt id="37" started="03/12/2024 17:40:48" isStartedSynced="True" ended="03/12/2024 17:43:08" isEndedSynced="True" />
+    <Attempt id="38" started="03/12/2024 17:43:21" isStartedSynced="True" ended="03/12/2024 19:14:48" isEndedSynced="True">
+      <RealTime>01:31:26.6597676</RealTime>
+      <GameTime>01:22:19.2670000</GameTime>
+    </Attempt>
+    <Attempt id="39" started="03/12/2024 19:15:33" isStartedSynced="True" ended="03/12/2024 19:17:08" isEndedSynced="True" />
+    <Attempt id="40" started="03/12/2024 19:17:49" isStartedSynced="True" ended="03/12/2024 19:25:22" isEndedSynced="True" />
+    <Attempt id="41" started="03/12/2024 19:27:51" isStartedSynced="True" ended="03/12/2024 19:28:38" isEndedSynced="True" />
+    <Attempt id="42" started="03/12/2024 19:28:50" isStartedSynced="True" ended="03/12/2024 19:30:24" isEndedSynced="True" />
+    <Attempt id="43" started="03/12/2024 19:30:42" isStartedSynced="True" ended="03/12/2024 20:22:17" isEndedSynced="True">
+      <RealTime>00:51:34.1426701</RealTime>
+      <GameTime>00:44:28.7330000</GameTime>
+    </Attempt>
+    <Attempt id="44" started="03/20/2024 18:44:57" isStartedSynced="True" ended="03/20/2024 18:47:01" isEndedSynced="True" />
+    <Attempt id="45" started="03/20/2024 18:47:12" isStartedSynced="True" ended="03/20/2024 18:48:07" isEndedSynced="True" />
+    <Attempt id="46" started="03/20/2024 18:48:18" isStartedSynced="True" ended="03/20/2024 18:49:11" isEndedSynced="True" />
+    <Attempt id="47" started="03/20/2024 18:49:21" isStartedSynced="True" ended="03/20/2024 19:41:05" isEndedSynced="True">
+      <RealTime>00:51:43.7980455</RealTime>
+      <GameTime>00:44:31.0500000</GameTime>
+    </Attempt>
+    <Attempt id="48" started="03/20/2024 20:04:51" isStartedSynced="True" ended="03/20/2024 20:05:51" isEndedSynced="True" />
+    <Attempt id="49" started="03/20/2024 20:06:03" isStartedSynced="True" ended="03/20/2024 20:50:45" isEndedSynced="True">
+      <RealTime>00:44:41.4018320</RealTime>
+      <GameTime>00:38:09.3170000</GameTime>
+    </Attempt>
+    <Attempt id="50" started="03/21/2024 20:14:11" isStartedSynced="True" ended="03/21/2024 20:14:50" isEndedSynced="True" />
+    <Attempt id="51" started="03/21/2024 20:15:32" isStartedSynced="True" ended="03/21/2024 20:15:34" isEndedSynced="True" />
+    <Attempt id="52" started="03/21/2024 20:15:35" isStartedSynced="True" ended="03/21/2024 20:16:46" isEndedSynced="True">
+      <PauseTime>00:01:05.8881946</PauseTime>
+    </Attempt>
+    <Attempt id="53" started="03/21/2024 20:16:46" isStartedSynced="True" ended="03/21/2024 20:16:49" isEndedSynced="True">
+      <PauseTime>00:00:00.3600222</PauseTime>
+    </Attempt>
+    <Attempt id="54" started="03/21/2024 20:17:10" isStartedSynced="True" ended="03/21/2024 20:17:11" isEndedSynced="True" />
+    <Attempt id="55" started="03/21/2024 20:17:29" isStartedSynced="True" ended="03/21/2024 20:17:30" isEndedSynced="True">
+      <RealTime>00:00:00.3846743</RealTime>
+    </Attempt>
+    <Attempt id="56" started="03/21/2024 20:17:31" isStartedSynced="True" ended="03/21/2024 20:17:31" isEndedSynced="True">
+      <RealTime>00:00:00.4873774</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>thcv</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:49.3630000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.3846743</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:02:25.7260000</RealTime>
+        </Time>
+        <Time id="52">
+          <RealTime>00:00:01.5275658</RealTime>
+        </Time>
+        <Time id="53">
+          <RealTime>00:00:00.5360280</RealTime>
+        </Time>
+        <Time id="54">
+          <RealTime>00:00:00.4901004</RealTime>
+        </Time>
+        <Time id="55">
+          <RealTime>00:00:00.3846743</RealTime>
+        </Time>
+        <Time id="56">
+          <RealTime>00:00:00.4873774</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>A:\lisää-es\LiveSplit_1.6.9\Components\asl</ScriptPath>
+    <Start>True</Start>
+    <Split>True</Split>
+    <CustomSettings />
+  </AutoSplitterSettings>
+</Run>

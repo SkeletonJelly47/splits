@@ -1,3 +1,283 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:94303a396aed425a1b77517a8abc1d84acdbe04e41bf066e6b443f2cf76151d8
-size 8938
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Necromunda: Hired Gun</GameName>
+  <CategoryName>Any% NG</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>5</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="06/06/2021 16:49:43" isStartedSynced="True" ended="06/06/2021 18:40:08" isEndedSynced="True">
+      <PauseTime>01:50:24.7380000</PauseTime>
+    </Attempt>
+    <Attempt id="2" started="06/06/2021 18:40:39" isStartedSynced="True" ended="06/06/2021 18:40:50" isEndedSynced="True" />
+    <Attempt id="3" started="06/06/2021 18:41:13" isStartedSynced="True" ended="06/06/2021 18:43:02" isEndedSynced="True" />
+    <Attempt id="4" started="06/06/2021 18:43:10" isStartedSynced="True" ended="06/06/2021 21:09:31" isEndedSynced="True">
+      <RealTime>02:25:30.6170000</RealTime>
+      <GameTime>02:10:39.3150000</GameTime>
+      <PauseTime>00:00:49.5720000</PauseTime>
+    </Attempt>
+    <Attempt id="5" started="06/06/2021 21:26:22" isStartedSynced="True" ended="06/06/2021 21:26:22" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Chapter 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:08:15.6480000</RealTime>
+          <GameTime>00:08:04.2590000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:15.6480000</RealTime>
+        <GameTime>00:08:04.2590000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:08:15.6480000</RealTime>
+          <GameTime>00:08:04.2590000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:21:45.8860000</RealTime>
+          <GameTime>00:20:51.7940000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:13:30.2380000</RealTime>
+        <GameTime>00:12:47.5350000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:13:30.2380000</RealTime>
+          <GameTime>00:12:47.5350000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:30:51.7670000</RealTime>
+          <GameTime>00:29:05.9750000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:09:05.8810000</RealTime>
+        <GameTime>00:08:14.1810000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:09:05.8810000</RealTime>
+          <GameTime>00:08:14.1810000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 4</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:41:58.4070000</RealTime>
+          <GameTime>00:38:57.1460000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:11:06.6400000</RealTime>
+        <GameTime>00:09:51.1710000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:11:06.6400000</RealTime>
+          <GameTime>00:09:51.1710000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 5</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:50:21.0630000</RealTime>
+          <GameTime>00:46:51.7550000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:22.6560000</RealTime>
+        <GameTime>00:07:54.6090000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:08:22.6560000</RealTime>
+          <GameTime>00:07:54.6090000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 6</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="4" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 7</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:26:12.7510000</RealTime>
+          <GameTime>01:20:16.1770000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:35:51.6880000</RealTime>
+        <GameTime>00:33:24.4220000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:35:51.6880000</RealTime>
+          <GameTime>00:33:24.4220000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 8</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:34:52.5590000</RealTime>
+          <GameTime>01:27:18.0620000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:39.8080000</RealTime>
+        <GameTime>00:07:01.8850000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:08:39.8080000</RealTime>
+          <GameTime>00:07:01.8850000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 9</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:43:55.1280000</RealTime>
+          <GameTime>01:35:29.4590000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:09:02.5690000</RealTime>
+        <GameTime>00:08:11.3970000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:09:02.5690000</RealTime>
+          <GameTime>00:08:11.3970000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 10</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:56:12.6580000</RealTime>
+          <GameTime>01:46:56.6570000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:12:17.5300000</RealTime>
+        <GameTime>00:11:27.1980000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:12:17.5300000</RealTime>
+          <GameTime>00:11:27.1980000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 11</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:03:50.9850000</RealTime>
+          <GameTime>01:53:30.4710000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:38.3270000</RealTime>
+        <GameTime>00:06:33.8140000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:07:38.3270000</RealTime>
+          <GameTime>00:06:33.8140000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 12</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:09:28.2260000</RealTime>
+          <GameTime>01:58:43.6800000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:37.2410000</RealTime>
+        <GameTime>00:05:13.2090000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:05:37.2410000</RealTime>
+          <GameTime>00:05:13.2090000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 13</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:25:30.6170000</RealTime>
+          <GameTime>02:10:39.3150000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:16:02.3910000</RealTime>
+        <GameTime>00:11:55.6350000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:16:02.3910000</RealTime>
+          <GameTime>00:11:55.6350000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

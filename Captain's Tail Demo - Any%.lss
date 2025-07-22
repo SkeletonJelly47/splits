@@ -1,3 +1,255 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dd2b5ad4beb8374ed9a92a27d1cc68eda29d8f00b11249bf4057082dbf8a8a3f
-size 10064
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Captain's Tail Demo</GameName>
+  <CategoryName>Any%</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="11/26/2018 19:08:32" isStartedSynced="True" ended="11/26/2018 19:08:35" isEndedSynced="True" />
+    <Attempt id="2" started="11/26/2018 19:08:39" isStartedSynced="True" ended="11/26/2018 19:15:48" isEndedSynced="True">
+      <RealTime>00:07:09.6040000</RealTime>
+    </Attempt>
+    <Attempt id="3" started="11/26/2018 19:16:11" isStartedSynced="True" ended="11/26/2018 19:22:44" isEndedSynced="True">
+      <RealTime>00:06:33.0230000</RealTime>
+    </Attempt>
+    <Attempt id="4" started="11/26/2018 19:23:00" isStartedSynced="True" ended="11/26/2018 19:29:16" isEndedSynced="True">
+      <RealTime>00:06:16.1870000</RealTime>
+    </Attempt>
+    <Attempt id="5" started="11/26/2018 19:29:43" isStartedSynced="True" ended="11/26/2018 19:30:31" isEndedSynced="True" />
+    <Attempt id="6" started="11/26/2018 19:30:41" isStartedSynced="True" ended="11/26/2018 19:30:48" isEndedSynced="True" />
+    <Attempt id="7" started="11/26/2018 19:30:58" isStartedSynced="True" ended="11/26/2018 19:35:39" isEndedSynced="True" />
+    <Attempt id="8" started="11/26/2018 19:40:24" isStartedSynced="True" ended="11/26/2018 19:46:30" isEndedSynced="True">
+      <RealTime>00:06:06.4070000</RealTime>
+    </Attempt>
+    <Attempt id="9" started="11/26/2018 19:46:50" isStartedSynced="True" ended="11/26/2018 19:53:08" isEndedSynced="True">
+      <RealTime>00:06:17.5810000</RealTime>
+    </Attempt>
+    <Attempt id="10" started="11/26/2018 19:53:22" isStartedSynced="True" ended="11/26/2018 19:53:38" isEndedSynced="True" />
+    <Attempt id="11" started="11/26/2018 19:53:43" isStartedSynced="True" ended="11/26/2018 19:57:24" isEndedSynced="True" />
+    <Attempt id="12" started="11/26/2018 19:57:35" isStartedSynced="True" ended="11/26/2018 20:02:57" isEndedSynced="True" />
+    <Attempt id="13" started="11/26/2018 20:03:07" isStartedSynced="True" ended="11/26/2018 20:08:25" isEndedSynced="True">
+      <RealTime>00:05:18.2240000</RealTime>
+    </Attempt>
+    <Attempt id="14" started="11/27/2018 14:26:13" isStartedSynced="True" ended="11/27/2018 14:32:03" isEndedSynced="True">
+      <RealTime>00:05:49.1680000</RealTime>
+    </Attempt>
+    <Attempt id="15" started="11/27/2018 14:32:54" isStartedSynced="True" ended="11/27/2018 14:35:22" isEndedSynced="True" />
+    <Attempt id="16" started="11/27/2018 14:35:31" isStartedSynced="True" ended="11/27/2018 14:40:59" isEndedSynced="True">
+      <RealTime>00:05:27.5720000</RealTime>
+    </Attempt>
+    <Attempt id="17" started="11/27/2018 14:41:48" isStartedSynced="True" ended="11/27/2018 14:47:48" isEndedSynced="True">
+      <RealTime>00:05:59.9150000</RealTime>
+    </Attempt>
+    <Attempt id="18" started="11/27/2018 14:47:58" isStartedSynced="True" ended="11/27/2018 14:51:33" isEndedSynced="True" />
+    <Attempt id="19" started="11/27/2018 14:51:42" isStartedSynced="True" ended="11/27/2018 14:52:54" isEndedSynced="True" />
+    <Attempt id="20" started="11/27/2018 14:53:04" isStartedSynced="True" ended="11/27/2018 14:54:56" isEndedSynced="True" />
+    <Attempt id="21" started="11/27/2018 14:55:05" isStartedSynced="True" ended="11/27/2018 14:57:37" isEndedSynced="True" />
+    <Attempt id="22" started="11/27/2018 14:57:48" isStartedSynced="True" ended="11/27/2018 15:02:45" isEndedSynced="True" />
+    <Attempt id="23" started="11/27/2018 15:06:08" isStartedSynced="True" ended="11/27/2018 15:11:37" isEndedSynced="True" />
+    <Attempt id="24" started="11/27/2018 15:11:47" isStartedSynced="True" ended="11/27/2018 15:15:21" isEndedSynced="True" />
+    <Attempt id="25" started="11/27/2018 15:15:45" isStartedSynced="True" ended="11/27/2018 15:16:12" isEndedSynced="True" />
+    <Attempt id="26" started="11/27/2018 15:16:20" isStartedSynced="True" ended="11/27/2018 15:18:02" isEndedSynced="True" />
+    <Attempt id="27" started="11/27/2018 15:18:10" isStartedSynced="True" ended="11/27/2018 15:23:28" isEndedSynced="True">
+      <RealTime>00:05:17.6130000</RealTime>
+    </Attempt>
+    <Attempt id="28" started="11/27/2018 15:24:18" isStartedSynced="True" ended="11/27/2018 15:24:26" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Bay Six</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:19.8960000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:18.5940000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:01:28.0400000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:29.6540000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:22.7380000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:24.0810000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:01:29.4410000</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:23.3350000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:18.5940000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:01:24.2770000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:22.9210000</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:21.4530000</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:01:22.0880000</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:20.9700000</RealTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:01:21.5110000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:01:23.7020000</RealTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:01:19.7100000</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:01:23.4820000</RealTime>
+        </Time>
+        <Time id="22">
+          <RealTime>00:01:20.5220000</RealTime>
+        </Time>
+        <Time id="23">
+          <RealTime>00:01:20.1280000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:01:20.6030000</RealTime>
+        </Time>
+        <Time id="26">
+          <RealTime>00:01:20.6790000</RealTime>
+        </Time>
+        <Time id="27">
+          <RealTime>00:01:19.8960000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Barkbados Island</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:02:56.6330000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:36.7370000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:02:19.4750000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:02:10.9810000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:25.4900000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:01.5420000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:01:49.7900000</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:50.4410000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:02:16.2870000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:01:55.1100000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:42.5860000</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:09.3960000</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:57.7650000</RealTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:01:48.2800000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:01:50.9240000</RealTime>
+        </Time>
+        <Time id="22">
+          <RealTime>00:01:42.5340000</RealTime>
+        </Time>
+        <Time id="23">
+          <RealTime>00:01:50.4350000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:01:37.4960000</RealTime>
+        </Time>
+        <Time id="27">
+          <RealTime>00:01:36.7370000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Treasure Caves</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:05:17.6130000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:08.8370000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:03:22.0890000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:02:58.3500000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:44.7950000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:50.5640000</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:52.6310000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:02:12.7170000</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:18.3190000</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:02:08.8370000</RealTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:02:50.1240000</RealTime>
+        </Time>
+        <Time id="27">
+          <RealTime>00:02:20.9800000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

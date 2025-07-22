@@ -1,3 +1,100 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d9407f67bec998a20b3a50c9fdedfea8a78783d71171f3d5dcaca46c4f2b727c
-size 4715
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>RUNGO</GameName>
+  <CategoryName>
+  </CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>21</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="05/08/2024 15:55:48" isStartedSynced="True" ended="05/08/2024 16:05:11" isEndedSynced="True" />
+    <Attempt id="2" started="05/08/2024 16:05:38" isStartedSynced="True" ended="05/08/2024 16:13:04" isEndedSynced="True" />
+    <Attempt id="3" started="05/08/2024 16:30:31" isStartedSynced="True" ended="05/08/2024 16:31:06" isEndedSynced="True" />
+    <Attempt id="4" started="05/08/2024 16:31:08" isStartedSynced="True" ended="05/08/2024 16:46:33" isEndedSynced="True">
+      <RealTime>00:15:25.7743469</RealTime>
+    </Attempt>
+    <Attempt id="5" started="05/08/2024 16:46:52" isStartedSynced="True" ended="05/08/2024 16:47:27" isEndedSynced="True">
+      <PauseTime>00:00:02.9322674</PauseTime>
+    </Attempt>
+    <Attempt id="6" started="05/08/2024 16:48:40" isStartedSynced="True" ended="05/08/2024 17:11:28" isEndedSynced="True">
+      <RealTime>00:22:47.8159362</RealTime>
+    </Attempt>
+    <Attempt id="7" started="05/08/2024 17:51:43" isStartedSynced="True" ended="05/08/2024 18:04:39" isEndedSynced="True">
+      <RealTime>00:12:56.1647823</RealTime>
+    </Attempt>
+    <Attempt id="8" started="05/08/2024 18:06:07" isStartedSynced="True" ended="05/08/2024 18:14:39" isEndedSynced="True">
+      <RealTime>00:08:32.6925196</RealTime>
+    </Attempt>
+    <Attempt id="9" started="05/08/2024 18:39:12" isStartedSynced="True" ended="05/08/2024 18:40:51" isEndedSynced="True" />
+    <Attempt id="10" started="05/08/2024 18:42:54" isStartedSynced="True" ended="05/08/2024 18:47:17" isEndedSynced="True" />
+    <Attempt id="11" started="05/08/2024 18:49:30" isStartedSynced="True" ended="05/08/2024 18:58:13" isEndedSynced="True" />
+    <Attempt id="12" started="05/08/2024 18:58:40" isStartedSynced="True" ended="05/08/2024 19:01:20" isEndedSynced="True">
+      <RealTime>00:02:39.5642819</RealTime>
+    </Attempt>
+    <Attempt id="13" started="05/08/2024 19:13:17" isStartedSynced="True" ended="05/08/2024 19:13:19" isEndedSynced="True" />
+    <Attempt id="14" started="05/08/2024 19:14:21" isStartedSynced="True" ended="05/08/2024 19:25:24" isEndedSynced="True" />
+    <Attempt id="15" started="05/08/2024 19:25:24" isStartedSynced="True" ended="05/08/2024 19:32:17" isEndedSynced="True" />
+    <Attempt id="16" started="05/08/2024 19:32:17" isStartedSynced="True" ended="05/08/2024 19:39:21" isEndedSynced="True">
+      <RealTime>00:07:03.4427256</RealTime>
+    </Attempt>
+    <Attempt id="17" started="05/08/2024 19:39:21" isStartedSynced="True" ended="05/08/2024 19:43:20" isEndedSynced="True" />
+    <Attempt id="18" started="05/08/2024 19:43:20" isStartedSynced="True" ended="05/08/2024 19:45:19" isEndedSynced="True" />
+    <Attempt id="19" started="05/08/2024 20:14:57" isStartedSynced="True" ended="05/08/2024 20:16:56" isEndedSynced="True">
+      <RealTime>00:01:58.7557174</RealTime>
+    </Attempt>
+    <Attempt id="20" started="05/08/2024 20:38:52" isStartedSynced="True" ended="05/08/2024 20:45:54" isEndedSynced="True">
+      <RealTime>00:07:02.8329436</RealTime>
+    </Attempt>
+    <Attempt id="21" started="05/08/2024 20:47:21" isStartedSynced="True" ended="05/08/2024 21:13:59" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>
+      </Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:58.7557174</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:15:25.7743469</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:22:47.8159362</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:12:56.1647823</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:08:32.6925196</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:02:39.5642819</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:07:03.4427256</RealTime>
+        </Time>
+        <Time id="19">
+          <RealTime>00:01:58.7557174</RealTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:07:02.8329436</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
